@@ -1,0 +1,15 @@
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.csproj.AssemblyReference.cache
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.AssemblyInfoInputs.cache
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.AssemblyInfo.cs
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\bin\Debug\net6.0\task2_findIntersection.exe
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\bin\Debug\net6.0\task2_findIntersection.deps.json
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\bin\Debug\net6.0\task2_findIntersection.runtimeconfig.json
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\bin\Debug\net6.0\task2_findIntersection.dll
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\bin\Debug\net6.0\task2_findIntersection.pdb
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.dll
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\refint\task2_findIntersection.dll
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.pdb
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\task2_findIntersection.genruntimeconfig.cache
+C:\Users\Team Bulka\OneDrive\Учёба\Семинары\Знакомство с языками программирования\Семинар 6. homework\task2_findIntersection\obj\Debug\net6.0\ref\task2_findIntersection.dll
